@@ -7,6 +7,7 @@ const facts = [
   "There are two breeds of alpacas: Huacaya and Suri.",
   "Alpacas can live up to 20 years in the Andes.",
   "They are gentle and rarely spit at humans!"
+  "In Peru, alpacas are considered a symbol of prosperity and peace."
 ];
 
 factBtn.addEventListener("click", () => {
